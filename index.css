@@ -51,7 +51,6 @@ body {
 }
 
 .message {
-  background: rgba(105, 55, 55, 0.9);
   color: #fff;
 
   bottom: 30px;
@@ -74,9 +73,6 @@ body {
   height: auto;
   /* quitar límite */
   text-align: center;
-
-  /* efecto bonito */
-  box-shadow: 0 0 20px rgba(255, 0, 100, 0.4);
 
   opacity: 0;
   animation: fadeIn 1.5s forwards;
